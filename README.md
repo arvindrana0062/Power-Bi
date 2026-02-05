@@ -25,7 +25,7 @@ This Power BI project analyzes historical gold price data to identify long-term 
 - Data Visualization & Storytelling
 
 ## 📷 Dashboard Preview
-![Overview](screenshots/overview.png)
+![Overview](Gold-Price-Analysis.png)
 
 ## 📂 Files in this Repository
 - Gold_Price_Analysis.pbix
