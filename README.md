@@ -101,7 +101,7 @@ Pivot Tables & Pivot Charts
 
 Excel Functions:
 
-INDEX MATCH
+## INDEX MATCH
 [Overview](Index-Match.png)
 
 SUMIFS / COUNTIFS
