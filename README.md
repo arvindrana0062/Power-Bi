@@ -59,7 +59,7 @@ Total records: ~2500 orders
 - Profit margin calculation
 
 ## 📈 Dashboard Preview
-![Overview](dashboard.png)
+![Overview](Dashboard.png)
 
 
 ## 📂 Repository Structure
