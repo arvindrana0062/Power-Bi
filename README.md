@@ -2,8 +2,6 @@
 
 # Following are my projects in SQL,Power Bi,Excel
 
-##Gold Price Trend, Volatility & Market Activity Analysis
-
 ## 📌 Project Overview
 This Power BI project analyzes historical gold price data to identify long-term trends, price volatility and trading activity. The dashboard is designed to support market analysis and investment insights.
 
@@ -70,27 +68,22 @@ Total records: ~3500 orders
 - Business-focused analysis
 - Data visualization best practices
 
-📊 Excel Data Analysis Project
-##📌 Project Overview
+# 📊 Excel Data Analysis Project
+
+## 📌 Project Overview
 
 This project focuses on analyzing structured business data using Microsoft Excel to uncover meaningful insights and trends.
 The objective was to clean raw data, perform analysis using Excel functions, and build an interactive dashboard for decision-making.
 
-📂 Dataset Description
 
-The dataset contains transactional/business-level information with fields such as:
+## 📊 Dataset 
 
-Date
+The dataset consists of three tables:
+- Orders
+- Order_Item_Table
+- Products_Table
 
-Category / Product
-
-Region
-
-Quantity
-
-Sales / Price / Metrics (as applicable)
-
-📁 Source: (mention source if public / simulated dataset)
+Total records: ~3500 orders
 
 🛠 Tools & Skills Used
 
@@ -124,29 +117,5 @@ Trend analysis over time
 
 Top & bottom performance identification
 
-Variance and comparison analysis
 
-📈 Dashboard Highlights
-
-The Excel dashboard provides:
-
-Interactive filters (slicers)
-
-KPI cards for quick insights
-
-Visual comparison using charts
-
-Clean and user-friendly layout
-
-📸 Dashboard screenshots are included in this repository.
-
-📊 Key Insights
-
-Identified top-performing categories/products
-
-Observed seasonal or monthly trends
-
-Highlighted regions with higher/lower performance
-
-Detected variability using conditional formatting
 
