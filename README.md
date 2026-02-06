@@ -70,8 +70,8 @@ Total records: ~3500 orders
 - Business-focused analysis
 - Data visualization best practices
 
-- 📊 Excel Data Analysis Project
-📌 Project Overview
+📊 Excel Data Analysis Project
+##📌 Project Overview
 
 This project focuses on analyzing structured business data using Microsoft Excel to uncover meaningful insights and trends.
 The objective was to clean raw data, perform analysis using Excel functions, and build an interactive dashboard for decision-making.
@@ -97,12 +97,15 @@ Sales / Price / Metrics (as applicable)
 Microsoft Excel
 
 Pivot Tables & Pivot Charts
+[Overview](Pivot Analysis.png)
 
 Excel Functions:
 
 INDEX MATCH
+[Overview](Index Match.png)
 
 SUMIFS / COUNTIFS
+[Overview](countif and sumif.png)
 
 Conditional Formatting
 
