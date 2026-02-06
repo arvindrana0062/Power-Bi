@@ -97,17 +97,18 @@ Sales / Price / Metrics (as applicable)
 Microsoft Excel
 
 Pivot Tables & Pivot Charts
-[Overview](Pivot Analysis.png)
+[Overview](Pivot-Analysis.png)
 
 Excel Functions:
 
 INDEX MATCH
-[Overview](Index Match.png)
+[Overview](Index-Match.png)
 
 SUMIFS / COUNTIFS
-[Overview](countif and sumif.png)
+[Overview](countif-and-sumif.png)
 
-Conditional Formatting
+Vlookup
+[Overview](vlookup.png)
 
 Dashboard Design & Data Visualization
 
